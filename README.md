@@ -1,6 +1,7 @@
 # SRadar List
 
-- 高峰钻场(Beta) （de_prime_radar）
+- 阿努比斯(Beta) (de_anubis_radar)
+- 悬河钻场(Beta) （de_prime_radar）
 - 沙城激突 （de_shortdust_radar）
 - 金库危机 （de_bank_radar）
 - 远古遗迹 （de_ancient_radar)
