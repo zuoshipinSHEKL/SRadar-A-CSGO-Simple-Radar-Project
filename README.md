@@ -1,7 +1,8 @@
 # SRadar List
 
-- 阿努比斯(Beta) (de_anubis_radar)
-- 悬河钻场(Beta) （de_prime_radar）
+- 布拉盖修道院 (de_blagai_radar)
+- 阿努比斯  (de_anubis_radar)
+- 悬河钻场 （de_prime_radar）
 - 沙城激突 （de_shortdust_radar）
 - 金库危机 （de_bank_radar）
 - 远古遗迹 （de_ancient_radar)
