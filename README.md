@@ -1,5 +1,6 @@
 # SRadar List
 
+- 坦根特公司 (de_breach_radar)
 - 布拉盖修道院 (de_blagai_radar)
 - 阿努比斯  (de_anubis_radar)
 - 悬河钻场 （de_prime_radar）
