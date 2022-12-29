@@ -1,5 +1,6 @@
 # SRadar List
 
+- 安全住所 (de_safehouse_radar)
 - 坦根特公司 (de_breach_radar)
 - 布拉盖修道院 (de_blagai_radar)
 - 阿努比斯  (de_anubis_radar)
