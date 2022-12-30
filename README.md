@@ -1,7 +1,7 @@
 # SRadar List
 
-- 圣马克镇 （de_stmarc_radar）
-- 安全住所 (de_safehouse_radar)
+- 圣马克镇 （de_stmarc_radar） 12/30
+- 安全住所 (de_safehouse_radar) 12/29
 - 阿努比斯  (de_anubis_radar)
 - 沙城激突 （de_shortdust_radar）
 - 金库危机 （de_bank_radar）
