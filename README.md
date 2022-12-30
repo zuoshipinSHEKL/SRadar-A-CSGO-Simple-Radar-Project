@@ -1,5 +1,6 @@
 # SRadar List
 
+- 圣马克镇 （de_stmarc_radar）
 - 安全住所 (de_safehouse_radar)
 - 阿努比斯  (de_anubis_radar)
 - 沙城激突 （de_shortdust_radar）
